@@ -1,0 +1,178 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "auth": {
+    "result": "success",
+    "user": {
+      "id": 1,
+      "name": "evelyn"
+    }
+  },
+  "roomlist": [
+    {
+      "id": 1,
+      "roomno": "301",
+      "name": "單人房",
+      "status": 0
+    },
+    {
+      "id": 2,
+      "roomno": "302",
+      "name": "單人房",
+      "status": 0
+    },
+    {
+      "id": 3,
+      "roomno": "303",
+      "name": "單人房",
+      "status": 0
+    },
+    {
+      "id": 4,
+      "roomno": "304",
+      "name": "單人房",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "roomno": "305",
+      "name": "單人房",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "roomno": "306",
+      "name": "單人房",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "roomno": "307",
+      "name": "單人房",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "roomno": "308",
+      "name": "單人房",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "roomno": "309",
+      "name": "單人房",
+      "status": 1
+    },
+    {
+      "id": 10,
+      "roomno": "310",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 11,
+      "roomno": "311",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 12,
+      "roomno": "312",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 13,
+      "roomno": "313",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 14,
+      "roomno": "314",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 15,
+      "roomno": "315",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 16,
+      "roomno": "316",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 17,
+      "roomno": "317",
+      "name": "雙人房",
+      "status": 1
+    },
+    {
+      "id": 18,
+      "roomno": "318",
+      "name": "雙人房",
+      "status": 1
+    }
+  ],
+  "fixItem": [
+    {
+      "id": 1,
+      "name": "房間電燈"
+    },
+    {
+      "id": 2,
+      "name": "電視"
+    },
+    {
+      "id": 3,
+      "name": "網路"
+    },
+    {
+      "id": 4,
+      "name": "電水壼"
+    },
+    {
+      "id": 5,
+      "name": "洗手台阻塞"
+    },
+    {
+      "id": 6,
+      "name": "熱水不熱"
+    },
+    {
+      "id": 7,
+      "name": "浴室電燈"
+    },
+    {
+      "id": 8,
+      "name": "吹風機"
+    },
+    {
+      "id": 9,
+      "name": "水龍頭"
+    },
+    {
+      "id": 10,
+      "name": "馬桶不通"
+    }
+  ]
+}
